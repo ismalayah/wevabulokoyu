@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://wevabulokoyu.netlify.app/sitemap.xml
